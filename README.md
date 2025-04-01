@@ -5,4 +5,4 @@
 | Name | Description |
 | ---- | ----------- |
 | [S21_SimpleBashUtils](https://github.com/Geger-Metov/S21_SimpleBashUtils) | Development of Bash text utilities: `cat`, `grep`. |
-| [S21 S21_Stringplus](https://github.com/Geger-Metov/S21_Stringplus) | Implementation of the string.h library with additions. |
+| [S21 Stringplus](https://github.com/Geger-Metov/S21_Stringplus) | Implementation of the string.h library with additions. |
