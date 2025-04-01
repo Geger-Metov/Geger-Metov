@@ -13,3 +13,8 @@
 | Name | Description |
 | ---- | ----------- |
 | [Edu_eBookReader](https://github.com/Geger-Metov/edu_EBook_Reader) | PDF/FB2 Reader |
+
+## HTML/CSS
+| Name | Description |
+| ---- | ----------- |
+| [Edu_CuisineWebsite](https://github.com/Geger-Metov/Edu_CuisineWebsite) | Website about Tatar national cuisine |
