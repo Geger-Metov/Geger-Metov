@@ -8,3 +8,8 @@
 | [S21 Stringplus](https://github.com/Geger-Metov/S21_Stringplus) | Implementation of the string.h library with additions. |
 | [S21_Decimal](https://github.com/Geger-Metov/S21_Decimal) | Implementation of your own s21_decimal.h library. |
 | [S21_Matrix](https://github.com/Geger-Metov/S21_Matrix) | Implementation of the matrix.h library. |
+
+## Python
+| Name | Description |
+| ---- | ----------- |
+| [Edu_eBookReader](https://github.com/Geger-Metov/edu_EBook_Reader) | PDF/FB2 Reader |
