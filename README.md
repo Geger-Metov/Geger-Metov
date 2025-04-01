@@ -4,4 +4,4 @@ The project with **"edu"** are me own projects done while in college
 ## C
 | Name | Description |
 | ---- | ----------- |
-| S21_SimpleBashUtils | Разработка утилит Bash по работе с текстом: `cat`, `grep`. |
+| [S21_SimpleBashUtils] (https://github.com/Geger-Metov/S21_SimpleBashUtils) | Разработка утилит Bash по работе с текстом: `cat`, `grep`. |
