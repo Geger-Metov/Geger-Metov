@@ -13,6 +13,7 @@
 | Name | Description |
 | ---- | ----------- |
 | [Edu_eBookReader](https://github.com/Geger-Metov/edu_EBook_Reader) | PDF/FB2 Reader |
+| [Edu_2DGame](https://github.com/Geger-Metov/Edu_2DGame) | 2D Platformer |
 
 ## HTML/CSS
 | Name | Description |
